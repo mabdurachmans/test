@@ -20,5 +20,3 @@
 	"theme": "Material-Theme-Palenight.sublime-theme",
 	"word_wrap": "true"
 }
-
-test again
